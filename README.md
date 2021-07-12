@@ -1,5 +1,5 @@
 
-| ![](https://github.com/XrestRus/XrestRus/blob/main/asset/Frank%20Horrigan%20Fallout2.gif) [![Codewars Badge](https://www.codewars.com/users/XrestRus/badges/micro)](https://www.codewars.com/users/XrestRus) |  ![on3dd's github stats](https://github-readme-stats.vercel.app/api?username=XrestRus&count_private=true&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XrestRus&langs_count=15)
+| ![](https://github.com/XrestRus/XrestRus/blob/main/asset/Frank%20Horrigan%20Fallout2.gif) [![Codewars Badge](https://www.codewars.com/users/XrestRus/badges/micro)](https://www.codewars.com/users/XrestRus) |  ![on3dd's github stats](https://github-readme-stats.vercel.app/api?username=XrestRus&count_private=true&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XrestRus&layout=compact&langs_count=10)
 | - | - | -
 
 ![](https://img.shields.io/badge/-typescript-%23C21325?style=for-the-badge&color=black&logo=typescript)
