@@ -47,8 +47,7 @@
 ![](https://img.shields.io/badge/-net-%23C21325?style=for-the-badge&color=black&logo=dotnet)
 ![](https://img.shields.io/badge/-laravel-%23C21325?style=for-the-badge&color=black&logo=laravel)
 ![](https://img.shields.io/badge/-Xamarin-%23C21325?style=for-the-badge&color=black&logoColor=3498DB&logo=Xamarin)
-![](https://img.shields.io/badge/-Xamarin-%23C21325?style=for-the-badge&color=black&logoColor=3498DB&logo=Xamarin)
-  
+ 
 </td>
 </tr>
 <tr>
