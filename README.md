@@ -17,14 +17,28 @@
 ![](https://github.com/XrestRus/XrestRus/blob/main/asset/r-a-3.gif)
   
 </td>
+<!---
 <td>
-
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XrestRus&layout=compact&langs_count=20)
-[![Codewars Badge](https://www.codewars.com/users/XrestRus/badges/large)](https://www.codewars.com/users/XrestRus) 
 
 </td>
+-->
+
 </tr>
+
+<!---
+<tr>
+  <td>
+
+<img src="https://github.com/XrestRus/XrestRus/raw/main/asset/1.webp" alt="" style="max-width: 100%; height:100px">
+<img src="https://github.com/XrestRus/XrestRus/raw/main/asset/2.gif" alt="" style="max-width: 100%; height:100px">
+<img src="https://github.com/XrestRus/XrestRus/raw/main/asset/3.gif" alt="" style="max-width: 100%; height:100px">
+
+  </td>
+</tr>
+-->
+
 <tr>
 <td colspan="2">
 
