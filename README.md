@@ -17,6 +17,7 @@
 ![](https://github.com/XrestRus/XrestRus/blob/main/asset/r-a-1.gif) 
   
 </td>
+
 <!---
 <td>
   
@@ -98,6 +99,27 @@
   
 </td>
 </tr>
+
+
+<tr>
+<td>
+  
+![](https://github.com/XrestRus/XrestRus/blob/main/asset/r1.webp) 
+![](https://github.com/XrestRus/XrestRus/blob/main/asset/r2.webp) 
+![](https://github.com/XrestRus/XrestRus/blob/main/asset/r3.webp) 
+![](https://github.com/XrestRus/XrestRus/blob/main/asset/r5.webp) 
+  
+</td>
+</tr>
+
+<tr>
+<td>
+
+![](https://github.com/XrestRus/XrestRus/blob/main/asset/r4.webp) 
+
+</td>
+</tr>
+
 </table>
 
 
