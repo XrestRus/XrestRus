@@ -108,17 +108,11 @@
 ![](https://github.com/XrestRus/XrestRus/blob/main/asset/r2.webp) 
 ![](https://github.com/XrestRus/XrestRus/blob/main/asset/r3.webp) 
 ![](https://github.com/XrestRus/XrestRus/blob/main/asset/r5.webp) 
-  
 ![](https://github.com/XrestRus/XrestRus/blob/main/asset/r4.webp) 
-</td>
-</tr>
-
-<tr>
-<td>
-
 
 </td>
 </tr>
+
 
 </table>
 
